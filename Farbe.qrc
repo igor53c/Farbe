@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>App.ico</file>
+        <file>ClipBoard.png</file>
+        <file>Exit.png</file>
+    </qresource>
+</RCC>
